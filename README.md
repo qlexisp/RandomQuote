@@ -8,7 +8,7 @@ Au chargement de la page, une citation aléatoire est automatiquement chargée e
 
 ## 🖼️ Aperçu
 
-[![Capture d'écran](screenshot.png)](https://i.ibb.co/XJKwvyY/screencapture-qlexisp-github-io-Random-Quote-2024-02-16-00-55-08.png)
+![Capture d'écran](https://i.ibb.co/XJKwvyY/screencapture-qlexisp-github-io-Random-Quote-2024-02-16-00-55-08.png)
 
 ## 🛠️ Technologies utilisées
 
